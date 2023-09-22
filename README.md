@@ -4,8 +4,13 @@
 - 📫 How to reach me: **bsx_homu@163.com** & **https://t.me/bsx_jzb**
 
 ### Languages and Tools
+
+<a href="https://git-scm.com/">
+  <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
+
 <a href="https://go.dev">
-  <img align="left" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
 </a>
 
 <a href="https://https://www.vim.org/">
@@ -26,8 +31,4 @@
 
 <a href="https://www.typescriptlang.org/">
   <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</a>
-
-<a href="https://git-scm.com/">
-  <img align="left" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </a>
