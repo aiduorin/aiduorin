@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Bsx
 
-- 🌱 I’m currently learning [Go](https://go.dev/), [NextJs](https://nextjs.org/), etc.
+- 🌱 I’m currently learning [Go](https://go.dev/), [React Native](https://reactnative.dev/), etc.
 - 📫 How to reach me: **bsx_homu@163.com** & **https://t.me/bsx_jzb**
 
 ### Languages and Tools
