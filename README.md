@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Aiduorin
 
-I am a student majoring in Software Engineering, and I am also a budding front-end developer.
+I am a front-end developer, mainly using react and its related technologies.
 
 Please feel free to contact me: **aiduorin@outlook.com** & **https://t.me/aiduorin** :D
